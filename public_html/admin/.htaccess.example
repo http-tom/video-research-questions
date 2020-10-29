@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "restricted area"
+# TODO: uncomment and change following to absolute path of .htpasswd file:
+#AuthUserFile .htpasswd
+require valid-user

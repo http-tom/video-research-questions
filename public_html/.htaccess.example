@@ -1,0 +1,3 @@
+SetEnv DB_NAME insert-database-name-here
+SetEnv DB_USERNAME insert-database-username-here
+SetEnv DB_PASSWORD insert-database-password-here
